@@ -7,8 +7,6 @@ In this project we show with a hands-on case study, why over-sampling techniques
 
 2. SMOTE can generate data that are closer to the majority class than the minority class.
 
+A detailed description of the project is published in the article [**"SMOTE-ing is injurious to (data) health"**](https://medium.com/@rajdeep.jzs/smote-ing-is-injurious-to-data-health-8073158ca82d)
 
 
-To know more, please go through the article **"SMOTE-ing is injurious to (data) health"**:
-
-https://medium.com/@rajdeep.jzs/smote-ing-is-injurious-to-data-health-8073158ca82d
